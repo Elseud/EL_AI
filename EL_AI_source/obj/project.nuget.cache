@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "rJ6nW9mvRc84wxbXgZsxf8bjW+wcAtxdmk8PDFCVdVNqtBOyF6+VF+gAzmKQHM9uV5zSEDgIlj1dIU9MZRFKAw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Janek\\source\\repos\\ClassLibrary2\\EL_AI.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Nie można znaleźć pakietu Krafs.Rimworld.Ref. W źródłach nie istnieją pakiety z tym identyfikatorem: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Krafs.Rimworld.Ref",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2",
+        ".NETFramework,Version=v4.7.2/win",
+        ".NETFramework,Version=v4.7.2/win-x64",
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    }
+  ]
+}

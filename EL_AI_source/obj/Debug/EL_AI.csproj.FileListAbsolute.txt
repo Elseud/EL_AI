@@ -1,0 +1,4 @@
+C:\Users\Janek\source\repos\ClassLibrary2\obj\Debug\EL_AI.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\ClassLibrary2\obj\Debug\EL_AI.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\1.4\Assemblies\EL_AI.dll
+C:\Users\Janek\source\repos\ClassLibrary2\obj\Debug\EL_AI.dll

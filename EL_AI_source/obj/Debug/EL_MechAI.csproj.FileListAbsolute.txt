@@ -1,0 +1,20 @@
+C:\Users\Janek\source\repos\ClassLibrary2\bin\Debug\EL_MechAI.dll
+C:\Users\Janek\source\repos\ClassLibrary2\obj\Debug\EL_MechAI.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\ClassLibrary2\obj\Debug\EL_MechAI.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\ClassLibrary2\obj\Debug\EL_MechAI.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Resources\MoW\Machines of War\1.4\Assemblies\EL_MechAI.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Resources\MoW\Machines of War\ClassLibrary2\obj\Debug\EL_MechAI.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Resources\MoW\Machines of War\ClassLibrary2\obj\Debug\EL_MechAI.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Resources\MoW\Machines of War\ClassLibrary2\obj\Debug\EL_MechAI.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Machines of War\1.4\Assemblies\EL_MechAI.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Machines of War\ClassLibrary2\obj\Debug\EL_MechAI.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Machines of War\ClassLibrary2\obj\Debug\EL_MechAI.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Machines of War\ClassLibrary2\obj\Debug\EL_MechAI.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Machines of War\Source\obj\Debug\EL_MechAI.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Machines of War\Source\obj\Debug\EL_MechAI.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Machines of War\Source\obj\Debug\EL_MechAI.dll
+C:\Users\Janek\Desktop\Kodowanie\1.4\Assemblies\EL_MechAI.dll
+C:\Users\Janek\Desktop\Kodowanie\Source\obj\Debug\EL_MechAI.csproj.AssemblyReference.cache
+C:\Users\Janek\Desktop\Kodowanie\Source\obj\Debug\EL_MechAI.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Desktop\Kodowanie\Source\obj\Debug\EL_MechAI.dll
+C:\Users\Janek\source\repos\1.4\Assemblies\EL_MechAI.dll
